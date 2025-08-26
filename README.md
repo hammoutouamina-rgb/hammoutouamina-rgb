@@ -40,12 +40,12 @@ Currently training to become a **growth hacker**, I love combining data, storyte
 
 ## 📂 Projects  
 
-- **Google Data Analytics Certification Final Project** – Full analysis and insights [GitHub Link]((https://docs.google.com/document/d/15owu0c5MDnY0WsV8b8yhYXl0ed-Dh-p_vM4XMbr0t4A/edit?usp=sharing))  
+- **Google Data Analytics Certification Final Project** – Full analysis and insights [Etude de cas, analyse de données](https://docs.google.com/document/d/15owu0c5MDnY0WsV8b8yhYXl0ed-Dh-p_vM4XMbr0t4A/edit?usp=sharing)  
 
 ---
 
 ## 📫 Let's Connect  
-- [LinkedIn]((https://www.linkedin.com/in/amina-hammoutou-6400551ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwBElb4MHR7iOaRINR31rQQ%3D%3D))  
+- [LinkedIn](https://www.linkedin.com/in/amina-hammoutou-6400551ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwBElb4MHR7iOaRINR31rQQ%3D%3D)  
 - Email: hammoutou.amina@gmail.com  
 
 ---
